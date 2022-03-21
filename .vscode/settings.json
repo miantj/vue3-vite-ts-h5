@@ -1,0 +1,7 @@
+{
+    "vetur.validation.script": false,
+    "path-intellisense.mappings": {
+        "@": "${workspaceRoot}/src",
+        "/": "${workspaceRoot}/"
+    },
+}
